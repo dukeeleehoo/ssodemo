@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jackson-jaxrs-base">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib2/jackson-jaxrs-base.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="seeyon-ctp-core">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/WebRoot/WEB-INF/lib2/seeyon-ctp-core.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
